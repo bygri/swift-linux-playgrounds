@@ -1,0 +1,1 @@
+docker build -t bygri/swift4-playground .

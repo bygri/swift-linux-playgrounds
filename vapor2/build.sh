@@ -1,0 +1,1 @@
+docker build -t bygri/vapor2-playground .
